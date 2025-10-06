@@ -20,4 +20,5 @@
 ---
 
 ### ⚡ Objetivo
-Transformar aprendizado em prática, evoluindo de projetos simples de Java para aplicações completas com banco de dados e APIs REST.
+Aprender e aplicar Java de forma prática, desenvolvendo desde sistemas de console até aplicações com banco de dados e APIs REST, para me tornar um desenvolvedor preparado para o mercado.
+
