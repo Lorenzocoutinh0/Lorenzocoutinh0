@@ -9,7 +9,7 @@
 
 ### 🌱 Tecnologias que estou estudando
 - Java ☕
-- HTML, CSS, 
+- HTML, CSS
 
 ---
 
