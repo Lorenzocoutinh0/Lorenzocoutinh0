@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação**  
 💻 Focado em **Java e Desenvolvimento Web**  
-📚 Atualmente cursando **Java Completo (Nélio Alves)**  
+📚 Atualmente cursando **Python**  
 🚀 Em constante evolução — aprendendo e construindo projetos reais  
 
 ---
