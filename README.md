@@ -1,30 +1,48 @@
-# 👋 Olá, eu sou o Lorenzo Coutinho
+# 👋 Olá, eu sou Lorenzo Coutinho
 
 🎓 Estudante de **Sistemas de Informação**  
-🐍 Focado em **Python** e desenvolvimento **Backend**  
-🌐 Conhecimento básico em **HTML** e **CSS**  
-📚 Atualmente estudando lógica de programação, Python e fundamentos para backend  
-🚀 Em constante evolução — aprendendo, praticando e construindo projetos reais
+🐍 Estudando **Python** com foco em desenvolvimento **Backend**  
+💻 Buscando minha primeira oportunidade profissional em tecnologia  
+📍 Vitória - ES, Brasil
 
 ---
 
-### 🌱 Tecnologias que estou estudando
+## 📚 Estudando atualmente
 
-- Python
-- HTML
-- CSS
+- Python e lógica de programação
+- Estruturas de dados e funções
 - Git e GitHub
 - Fundamentos de Backend
 
+### 🗺️ Próximos passos
+
+`JSON` → `POO` → `SQL / SQLite` → `FastAPI` → `Django`
+
 ---
 
-### 📫 Como me encontrar
+## 🚀 Projetos em destaque
 
-📧 [lorenzo.coutinho.5@gmail.com](mailto:lorenzo.coutinho.5@gmail.com)  
+### 🐍 Jogo da Forca
+Projeto desenvolvido durante meus estudos de Python, utilizando modularização, manipulação de arquivos e SQLite.
+
+### 🥖 Padaria Vila Rica
+Landing page responsiva criada para uma necessidade real de negócio, com integração com WhatsApp, mapa e informações de funcionamento.
+
+---
+
+## 🛠️ Tecnologias
+
+`Python` `Git` `GitHub` `HTML` `CSS` `SQLite`
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor Backend através de projetos práticos e conquistar minha primeira oportunidade profissional na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+📧 [E-mail](mailto:lorenzo.coutinho.5@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lorenzo-coutinho-743a9b353/)
-
----
-
-### ⚡ Objetivo
-
-Aprender e aplicar **Python** de forma prática, desenvolvendo desde programas de console até projetos voltados para **backend**, com foco em lógica de programação, organização de código, banco de dados, APIs e boas práticas de desenvolvimento.
