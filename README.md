@@ -22,11 +22,9 @@
 
 ## 🚀 Projetos em destaque
 
-### 🐍 Jogo da Forca
-Projeto desenvolvido durante meus estudos de Python, utilizando modularização, manipulação de arquivos e SQLite.
+### 🐍 [Jogo da Forca](https://github.com/Lorenzocoutinh0/jogo-da-forca)
 
-### 🥖 Padaria Vila Rica
-Landing page responsiva criada para uma necessidade real de negócio, com integração com WhatsApp, mapa e informações de funcionamento.
+### 🥖 [Padaria Vila Rica](https://github.com/Lorenzocoutinh0/padaria-vila-rica)
 
 ---
 
